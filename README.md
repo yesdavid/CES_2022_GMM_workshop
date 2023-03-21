@@ -1,9 +1,8 @@
-# Benchmarking methods and data for the whole-outline geometric morphometric analysis of lithic tools
+## Research compendium for 'Benchmarking methods and data for the whole-outline geometric morphometric analysis of lithic tools'
 
+### Compendium DOI
 
-## Research compendium
-
-[![DOI](https://zenodo.org/badge/DOI/.svg)](https://doi.org/)
+[![DOI](https://zenodo.org/badge/539433912.svg)](https://zenodo.org/badge/latestdoi/539433912)
 
 The files hosted at <https://github.com/yesdavid/CES_2022_GMM_workshop> are the development versions and may have changed since the paper was published.
 
