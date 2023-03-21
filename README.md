@@ -3,9 +3,6 @@
 
 ## Research compendium
 
-
-### Compendium DOI:
-
 [![DOI](https://zenodo.org/badge/DOI/.svg)](https://doi.org/)
 
 The files at the URL above will generate the results as found in the publication. The files hosted at <https://github.com/yesdavid/CES_2022_GMM_workshop> are the development versions and may have changed since the paper was published.
