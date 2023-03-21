@@ -9,6 +9,12 @@ outlines_combined <- readRDS(file = file.path("database", "outlines_combined_wit
 Momocs::panel(outlines_combined,
               cols= "black")
 
+# save image as svg
+svg(filename=file.path("database" , "SI_Fig_1_outlines_panel.svg"), width = 7, height = 7)
+Momocs::panel(outlines_combined,
+              cols= "black")
+dev.off()
+
 # all outlines stacked on top of each other
 Momocs::stack(outlines_combined)
 
@@ -36,7 +42,7 @@ table(outlines_combined$fac$archaeological_period)
 
 ### map the distribution of sites covered in this data set
 
-unique_sites <- outlines_combined_metadata %>% 
+unique_sites <- outlines_combined$fac %>% 
   select(editor_name,
          latitude_y,
          longitude_x) %>% 
@@ -65,6 +71,7 @@ world_clip <- raster::intersect(world, data_extent) # select only those parts of
 world_clip_f <- fortify(world_clip) # transforms it into a data frame
 
 # plot sites with editor names on top of world map
+map_plot <- 
 ggplot() +
   geom_polygon(data = world_clip_f, 
                aes(x = long, 
@@ -92,6 +99,18 @@ ggplot() +
         # panel.grid.minor = element_blank(),
         panel.background = element_rect(colour = "black", 
                                         size=1))
+map_plot
+
+ggsave(map_plot,
+       filename = file.path("database",
+                            "Fig_2_datasets_map.png"),
+       width = 10,
+       height = 7)
+svg(filename=file.path("database" , "Fig_2_datasets_map.svg"), width = 10, height = 7)
+map_plot
+dev.off()
+
+
 #######################
 
 
