@@ -1,7 +1,6 @@
-# Benchmarking methods and data for the whole-outline geometric morphometric analysis of lithic tools
+## Research compendium for 'Benchmarking methods and data for the whole-outline geometric morphometric analysis of lithic tools'
 
-
-## Research compendium
+### Compendium DOI
 
 [![DOI](https://zenodo.org/badge/DOI/.svg)](https://doi.org/)
 
