@@ -1,7 +1,7 @@
 # Benchmarking methods and data for the whole-outline geometric morphometric analysis of lithic tools
 
 
-## Research compendium for 'Araujo et al. (2023) Benchmarking methods and data for the whole-outline geometric morphometric analysis of lithic tools' 
+## Research compendium
 
 
 ### Compendium DOI:
@@ -16,7 +16,7 @@ The files at the URL above will generate the results as found in the publication
 
 ### Published in:
 
-[![DOI](https://zenodo.org/badge/DOI/.svg)](https://doi.org/) 
+Renata Pedroso de Araujo, Felix Riede, Mercedes Okumura, Astolfo G. M. Araujo, Alice Leplongeon, Colin Wren, José Ramón Rabuñal, Marcelo Cardillo, María Barrera Cruz, David N. Matzig (2023) Benchmarking methods and data for the whole-outline geometric morphometric analysis of lithic tools. _Evolutionary Anthropology_. https://doi.org/
 
 ### Overview of contents and how to reproduce:
 
