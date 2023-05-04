@@ -12,7 +12,7 @@ The files hosted at <https://github.com/yesdavid/CES_2022_GMM_workshop> are the 
 
 ### Published in:
 
-Renata Pedroso de Araujo, Felix Riede, Mercedes Okumura, Astolfo G. M. Araujo, Alice Leplongeon, Colin Wren, José Ramón Rabuñal, Marcelo Cardillo, María Barrera Cruz, David N. Matzig (2023) Benchmarking methods and data for the whole-outline geometric morphometric analysis of lithic tools. _Evolutionary Anthropology_. https://doi.org/
+Renata Pedroso de Araujo, Felix Riede, Mercedes Okumura, Astolfo G. M. Araujo, Alice Leplongeon, Colin Wren, José Ramón Rabuñal, Marcelo Cardillo, María Barrera Cruz, David N. Matzig (2023) Benchmarking methods and data for the whole-outline geometric morphometric analysis of lithic tools. _Evolutionary Anthropology_. http://doi.org/10.1002/evan.21981 
 
 ### Overview of contents and how to reproduce:
 
